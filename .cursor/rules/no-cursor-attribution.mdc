@@ -1,0 +1,9 @@
+---
+description: Do not add Cursor attribution in project artifacts
+alwaysApply: true
+---
+
+# No Cursor Attribution
+
+- Do not add attribution such as "Made-with: Cursor" to commit messages, README, docs, comments, or release notes.
+- Keep repository artifacts neutral and without tool branding.
